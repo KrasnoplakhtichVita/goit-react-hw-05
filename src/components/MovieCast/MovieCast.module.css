@@ -1,0 +1,11 @@
+.cast {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.castImg {
+  margin-bottom: 10px;
+  width: 300px;
+  height: 450px;
+}
